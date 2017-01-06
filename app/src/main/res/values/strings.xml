@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Communitree</string>
+
+    <!-- Strings for promotions -->
+    <string name="percent_off">%1$d Off</string>
+    <string name="amount_off">$%1$d Off</string>
+    <string name="coupon_limit">Limit %1$d per customer</string>
+</resources>
